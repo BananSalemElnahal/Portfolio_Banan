@@ -34,10 +34,6 @@ You can view a live version of this project [here](https://banansportfolio.netli
 2. **To-Do List App** – A local storage-based task manager *(demo link not added yet)*
 3. **Admin Dashboard** – A web-based dashboard to manage and monitor data
 
-## 📫 Contact
-- LinkedIn: [linkedin.com/in/banan-s-nhal](https://www.linkedin.com/in/banan-s-nhal/)
-- GitHub: [github.com/BananSalemElnahal](https://github.com/BananSalemElnahal)
-- Email: banan.s.bss@gmail.com
 
 ---
 
